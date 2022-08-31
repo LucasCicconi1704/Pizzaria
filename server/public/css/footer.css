@@ -1,0 +1,8 @@
+a:hover{text-decoration:none;}
+a{text-decoration:none;}
+
+.social {
+    display: flex;
+  justify-content: space-evenly;
+}
+
