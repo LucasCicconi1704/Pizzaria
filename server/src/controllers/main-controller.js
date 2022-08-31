@@ -38,4 +38,7 @@ module.exports = {
   postres: (req, res) => {
     res.render("postres");
   },
+  bebidas: (req, res) => {
+    res.render("bebidas");
+  },
 };
